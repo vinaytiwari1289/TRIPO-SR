@@ -18,9 +18,9 @@ pipeline_tag: image-to-3d
 
 TripoSR is a fast and feed-forward 3D generative model developed in partnership with Tripo AI inspired by the recent work of [LRM: Large Reconstruction Model For Single Image to 3D](https://arxiv.org/abs/2311.04400).
 
-This new image-to-3D model leverages cutting-edge AI advancements to set new standards in 3D model generation. Designed to cater to the growing demands of entertaining, gaming, industrial design, and architecture professionals, TripoSR enriches the conversion process with detail and precision while providing efficient and responsive outputs for visualizing 3D objects.
-
 ![](figures/input800.mp4)
+
+This new image-to-3D model leverages cutting-edge AI advancements to set new standards in 3D model generation. Designed to cater to the growing demands of entertaining, gaming, industrial design, and architecture professionals, TripoSR enriches the conversion process with detail and precision while providing efficient and responsive outputs for visualizing 3D objects.
 
 ## Usage
 
