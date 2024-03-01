@@ -20,7 +20,9 @@ TripoSR is a fast and feed-forward 3D generative model developed in partnership 
 
 This new image-to-3D model leverages cutting-edge AI advancements to set new standards in 3D model generation. Designed to cater to the growing demands of entertaining, gaming, industrial design, and architecture professionals, TripoSR enriches the conversion process with detail and precision while providing efficient and responsive outputs for visualizing 3D objects.
 
-<img src='img.png' width='700'>
+<video width="800" autoplay loop muted>
+    <source src="figures/output_examples.mp4" type="video/mp4">
+</video>
 
 ## Usage
 
