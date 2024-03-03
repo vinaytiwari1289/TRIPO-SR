@@ -14,23 +14,24 @@ pipeline_tag: image-to-3d
 ---
 # TripoSR
 ![](figures/input800.mp4)
-TripoSR is a fast and feed-forward 3D generative model developed in partnership with Tripo AI inspired by the recent work of [LRM: Large Reconstruction Model For Single Image to 3D](https://arxiv.org/abs/2311.04400).
+TripoSR is a fast and feed-forward 3D generative model developed in collaboration between Stability AI and Tripo AI.
 
 ## Model Details
 
 ### Model Description
 
-We closely follow [LRM](https://arxiv.org/abs/2311.04400) network architecture for the model design, where TripoSR incorporates a series of technical advancements over the LRM model in terms of both data curation as well as model and training improvements. For more technical details and evaluations, please refer to [the tech report on our model](link).
+We closely follow [LRM](https://arxiv.org/abs/2311.04400) network architecture for the model design, where TripoSR incorporates a series of technical advancements over the LRM model in terms of both data curation as well as model and training improvements. For more technical details and evaluations, please refer to [our tech report](link).
 
 * **Developed by**: [Stability AI](https://stability.ai/), [Tripo AI](https://tripo3d.ai/)
-* **Model type**: Feed-forward model
+* **Model type**: Feed-forward 3D reconstruction from a single image
 * **License**: MIT
-* **Hardware**: `TripoSR` was trained on the Stability AI cluster on 22 nodes with 8 A100 40GBs GPUs for 5 days.
+* **Hardware**: We train `TripoSR` for 5 days on 22 GPU nodes each with 8 A100 40GB GPUs
 
 ### Model Sources
 
 * **Repository**: https://github.com/VAST-AI-Research/TripoSR
 * **Tech report**: *link*
+* **Demo**: https://huggingface.co/spaces/stabilityai/TripoSR
 
 ### Training Dataset
 
@@ -39,7 +40,9 @@ We use renders from the [Objaverse](https://objaverse.allenai.org/objaverse-1.0)
 
 ## Usage
 
-For usage instructions, please refer to our [TripoSR GitHub repository](https://github.com/VAST-AI-Research/TripoSR).
+* For usage instructions, please refer to our [TripoSR GitHub repository](https://github.com/VAST-AI-Research/TripoSR)
+
+* You can also try it in [our gradio demo](https://huggingface.co/spaces/stabilityai/TripoSR)
 
 
 ### Misuse, Malicious Use, and Out-of-Scope Use
