@@ -20,7 +20,7 @@ TripoSR is a fast and feed-forward 3D generative model developed in collaboratio
 
 ### Model Description
 
-We closely follow [LRM](https://arxiv.org/abs/2311.04400) network architecture for the model design, where TripoSR incorporates a series of technical advancements over the LRM model in terms of both data curation as well as model and training improvements. For more technical details and evaluations, please refer to [our tech report](link).
+We closely follow [LRM](https://arxiv.org/abs/2311.04400) network architecture for the model design, where TripoSR incorporates a series of technical advancements over the LRM model in terms of both data curation as well as model and training improvements. For more technical details and evaluations, please refer to [our tech report](https://drive.google.com/file/d/1LWlZPT2aASi9jHiGVhDSr4YCTANoFW5t/view).
 
 * **Developed by**: [Stability AI](https://stability.ai/), [Tripo AI](https://tripo3d.ai/)
 * **Model type**: Feed-forward 3D reconstruction from a single image
