@@ -30,7 +30,7 @@ We closely follow [LRM](https://arxiv.org/abs/2311.04400) network architecture f
 ### Model Sources
 
 * **Repository**: https://github.com/VAST-AI-Research/TripoSR
-* **Tech report**: *link*
+* **Tech report**: [link](https://drive.google.com/file/d/1LWlZPT2aASi9jHiGVhDSr4YCTANoFW5t/view)
 * **Demo**: https://huggingface.co/spaces/stabilityai/TripoSR
 
 ### Training Dataset
